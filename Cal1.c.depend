@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586612005 source:c:\users\acer\desktop\code\c\cal1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
